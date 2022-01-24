@@ -6,7 +6,7 @@ int main(){
     int num1,num2;
     int fact=1,i;
     float n1,n2,ans;
-    while(op!=7){
+    while(op!=9){
         printf("Select the operation for performing the calculation:\n");
         printf("\n 1.Addition\t \t 2.Subtraction\n 3.Multiplication\t 4.Division\n 5.Modulus\t \t 6.Factorial\n 7.Square\t \t 8.Square Root\n 9.exit\n");
         printf("Please make a choice:");
