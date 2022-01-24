@@ -48,7 +48,7 @@ int main(){
             printf("You chose Modulus.\n");
             printf("Enter the two numbers:");
             scanf("%d %d",&num1,&num2);
-            if(n2==0){
+            if(num2==0){
                 printf("\nThe Divisor cannot be 0.Please choose another number:");
                 scanf("%d",&num2);
             }
